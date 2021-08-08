@@ -264,6 +264,11 @@ ajv@^8.0.1:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
+amplify@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/amplify/-/amplify-0.0.11.tgz#fd81c7068c862823f2508b8f3c650eb76753f58c"
+  integrity sha1-/YHHBoyGKCPyUIuPPGUOt2dT9Yw=
+
 anser@1.4.9:
   version "1.4.9"
   resolved "https://registry.yarnpkg.com/anser/-/anser-1.4.9.tgz#1f85423a5dcf8da4631a341665ff675b96845760"
