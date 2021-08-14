@@ -1,0 +1,3 @@
+AmplifyのHostingを追加し、Next.jsをデプロイするCloudFrontなどを作成
+
+https://dev.classmethod.jp/articles/amplify-next-js-isr/#toc-8
